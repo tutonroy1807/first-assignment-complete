@@ -1,0 +1,128 @@
+body{
+    font-family: 'Finlandica', sans-serif;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+  }
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 60px;
+  }
+  #font-small{
+      font-size: medium;
+      color: rgb(29, 255, 247);
+  }
+  #button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font: white;
+    font-size: large;
+  }
+
+  .Second-part{
+      margin: 80px;
+      margin-bottom: 20px;
+      font-size: 40px;
+      
+  }
+  #font-view{
+      font-size: large;
+      padding: 10px 40px;
+  }
+  .same-row{
+      display: flex;
+      margin: 30px;
+      
+      
+      
+      
+  }
+  .box1{
+     margin: 20px;
+     padding-left: 7px;
+     padding-right: 5px;
+     padding-top: 3px;
+     padding-bottom: 3px;
+     border: 5px solid black;
+     width: 6%;
+  }
+  .other-part{
+      text-align: center;
+      font-size: large;
+  }
+  u{
+      text-decoration: underline;
+      margin: 10px;
+  }
+  .half-width{
+      width: 30%;
+      
+  }
+  #background1{
+        background-color: rgb(245, 236, 224);
+        margin: 25px;
+        border: 7px solid cornsilk;
+        border-radius: 10px;
+        padding: 10px;
+
+  }
+  
+  #background2{
+
+    background-color: rgb(228, 132, 6);
+    margin: 20px;
+    border: 7px solid rgb(218, 175, 7);
+    border-radius: 10px;
+    padding: 10px;
+
+  }
+
+  #background3{
+
+    background-color: rgb(6, 176, 228);
+    margin: 25px;
+    border: 7px solid rgb(7, 151, 218);
+    border-radius: 10px;
+    padding: 10px;
+
+  }
+  
+  .bonus-part{
+      width: 50%;
+      margin: 30px;
+  }
+  #format-change{
+      margin-top: 20px;
+      padding: 20px;
+  }
+  #last-part{
+      text-align: center;
+      font: 200px;
+  }
+  #last-end{
+      text-align: center;
+      font: 25px;
+  }
+  .box-layout{
+     
+      width: 25%;
+      margin: 50px;
+      border: 50px solid rgb(29, 255, 247);
+      padding: 20px;
+      background-color: coral;
+  }
+
+  footer{
+      background-color: black;
+      width: 100%;
+      text-align: center;
+      color: rgb(21, 255, 0);
+  }
